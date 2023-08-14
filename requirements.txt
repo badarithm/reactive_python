@@ -1,4 +1,4 @@
 PyQt5==5.12.2
 PyQt5-sip==4.19.17
 Rx==1.6.1
-tornado==6.0.2
+tornado==6.3.3
